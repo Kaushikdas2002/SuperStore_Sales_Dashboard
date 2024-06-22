@@ -37,7 +37,7 @@ By using the Super Store Sales Dashboard, organizations can achieve the followin
 Interactive visualizations  
 Sales performance metrics  
 Trend analysis  
-Filter capabilities  
+Filtering capabilities  
 
 ## Works Done on the Dataset
 **Data Cleaning** :
